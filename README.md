@@ -14,4 +14,4 @@ Type ```aws configure``` in your terminal and provide the asked details, i.e
 > (**FYI**: This configuration is stored in ```~/.aws/credentials```)
 
 ## 🏃‍♂️ Running AWS Manager
-You can either run the code using python, or use the binary from [Releases](https://github.com/abhishek8664/aws_manager/releases/latest).
+You can either run the code using python, or use the binary from [Releases](https://github.com/abhishek8664/aws_manager/releases/latest) for linux.
